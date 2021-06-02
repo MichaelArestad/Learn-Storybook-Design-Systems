@@ -76,7 +76,7 @@
     "prettier": "^2.3.0"
   },
   "description": "Storybook design systems tutorial",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/MichaelArestad/Learn-Storybook-Design-Systems.git",
   "author": "Michael Arestad <marestad@gmail.com>",
   "license": "MIT"
