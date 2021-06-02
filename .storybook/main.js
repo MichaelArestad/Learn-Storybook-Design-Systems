@@ -8,8 +8,5 @@ module.exports = {
     "@storybook/addon-links",
     "@storybook/addon-essentials",
     "@storybook/preset-create-react-app"
-  ],
-  "scripts": {
-    "build-storybook-docs": "build-storybook -s public --docs"
-  }
+  ]
 }
