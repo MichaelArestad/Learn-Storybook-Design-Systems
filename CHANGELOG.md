@@ -1,3 +1,16 @@
+# v0.1.2 (Wed Jun 02 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/MichaelArestad/Learn-Storybook-Design-Systems ([@MichaelArestad](https://github.com/MichaelArestad))
+- Updated main js file ([@MichaelArestad](https://github.com/MichaelArestad))
+
+#### Authors: 1
+
+- Michael Arestad ([@MichaelArestad](https://github.com/MichaelArestad))
+
+---
+
 # v0.1.1 (Wed Jun 02 2021)
 
 #### ⚠️ Pushed to `main`
