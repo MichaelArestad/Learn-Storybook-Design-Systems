@@ -1,3 +1,15 @@
+# v0.2.0 (Wed Jun 02 2021)
+
+#### 🚀 Enhancement
+
+- Added AvatarList and stories [#2](https://github.com/MichaelArestad/Learn-Storybook-Design-Systems/pull/2) ([@MichaelArestad](https://github.com/MichaelArestad))
+
+#### Authors: 1
+
+- Michael Arestad ([@MichaelArestad](https://github.com/MichaelArestad))
+
+---
+
 # v0.1.2 (Wed Jun 02 2021)
 
 #### ⚠️ Pushed to `main`
